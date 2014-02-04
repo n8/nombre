@@ -1,0 +1,17 @@
+{
+  "name": "nombre",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Use people's first names in your tweets to them",
+  "icons": {
+    "16": "icon-16.png",
+    "128": "icon-128.png"
+  },
+  "default_locale": "en",
+  "content_scripts": [
+    {
+      "matches": ["https://twitter.com/*"],
+      "js": ["jquery.js", "content_script.js"]
+    }
+  ]
+}
