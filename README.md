@@ -13,7 +13,7 @@ nombre is a Chrome extension that creates a new menu item in Twitter to "Reply w
 
 Which automatically adds the first name of the person you are replying to on Twitter to the Tweet.
 
-![](https://draftin.com:443/images/8560?token=RU9G750WtffpkLrA-ndgTNoc06k4JVUx9QXq-YIvQ-Sthju6YdPvomVVILOEJM8PJEiCLIka_7fWASJh8PqB19I) 
+![](https://draftin.com:443/images/8561?token=rbdxWcSNJNGEWQ2MB6ohf1avcVroQ3MAuqvNZQjnpoX5UeOChjpHjdbqmDA78PTGL3qN4_2d66hVGZlPsHWurgo) 
 
 ----
 
@@ -23,7 +23,7 @@ Which automatically adds the first name of the person you are replying to on Twi
 
 ## Background
 
-For years I struggled building an audience. But I'm very blessed today to have things clicking with my writing and my project [Draft](http://draftin.com) to help people [write better](http://draftin.com). One helpful technique I figured out to grow my Twitter audience, is simply getting better at interacting with people on Twitter. 
+For years I struggled building an audience. But I'm very blessed today to have things clicking with my writing and my project [Draft](http://draftin.com) to help people [write better](http://draftin.com). One helpful technique I figured out to grow my Twitter audience is simply getting better at interacting with people on Twitter. 
 
 (I'm surprised more people haven't read Carnegie's book. It's the top book on[ Y Combinator's recommended library](http://ycombinator.com/lib.html).) 
 
